@@ -31,10 +31,13 @@ function generateMarkdown(data) {
 
     ## Tests
     ${data.tests}
-
-    ## Contact Infomation    
+    
+    ## Questions
     ${data.git_name}
     ${data.email}     
+
+    ## Contact Infomation    
+
     ${data.questions}
 `;
 }
