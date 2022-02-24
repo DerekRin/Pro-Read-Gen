@@ -61,6 +61,7 @@ const questions = [
     type: 'confirm',
     name: "Table of Contents",
     message: "Would you like to provide a Table of Contents?",
+    return: true,
     },
     {
     type: 'input',

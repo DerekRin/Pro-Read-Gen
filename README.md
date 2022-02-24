@@ -1,24 +1,25 @@
-# John
+# ** Pro-Read-Gen **
     //Licensing
-    Johnhub    
+
    
     //Table Of Contents
 
-    # Description
-    ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh (halo theme)
+    ## Description
+    > A program that requires the user to answer a few questions to generate a read me file
 
-    # Installation
+    ## Installation
     undefined
 
-    # Usage
-    oh you know
+    ## Usage
+    By answering a few questions the program produces a readme file
 
-    # Contributing
-    me
+    ## Contributing
+    Derek Rincones
 
-    # Tests
-    no
+    ## Tests
+    Going back and fourth with the code to produce a read me file.
 
-    # Contact Infomation
-    john.mail     
-    heres my insta follow for folloq
+    ## Contact Infomation    
+    [Derekrin] (https://pages.github.com/Derekrin)
+    Derekrin98@gmail.com     
+    github.com/Derekrin
